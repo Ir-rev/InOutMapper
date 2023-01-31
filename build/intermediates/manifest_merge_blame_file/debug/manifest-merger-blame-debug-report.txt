@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ir.rev.inOutMapper" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\tenzor\PizzaApp\InOutMapper\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1693683174261514680.xml
+7        android:targetSdkVersion="32" />
+7-->C:\tenzor\PizzaApp\InOutMapper\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1693683174261514680.xml
+8
+9</manifest>
